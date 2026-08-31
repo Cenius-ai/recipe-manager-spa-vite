@@ -79,7 +79,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-Open the repo and you'll find a complete Vite application (38 files). Top-level layout: `src/`. `install.sh` takes care of packages and initial data in a single pass; nothing else is required before launching. Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
+Open the repo and you'll find a complete Vite application (25 files). Top-level layout: `src/`. `install.sh` takes care of packages and initial data in a single pass; nothing else is required before launching. Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
